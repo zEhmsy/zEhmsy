@@ -90,20 +90,42 @@ I’m **Giuseppe**, a **Passionate Computer Engineer** currently focused on **mi
 
 ## 📊 Stats
 
+### 📟 System Status
+
+```bash
+g-turturro@local:~$ ./fetch_status.sh
+[+] Booting embedded systems... OK
+[+] Loading engineering protocols... OK
+[+] Compiling C/C++ libraries... SUCCESS
+--------------------------------------------------
+> Current_Mission : "SITEC SNC & Microcontroller Mastery"
+> Coffee_Level    : [||||||||||--] 85% (Optimal)
+> Brain_Uptime    : "Learning something new every day"
+--------------------------------------------------
+g-turturro@local:~$ _
+```
+
 <div align="center">
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com?user=zehmsy&theme=gotham&hide_border=true)](https://github.com/zEhmsy)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zehmsy&theme=react-dark)](https://github.com/zEhmsy)
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zEhmsy/zEhmsy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zEhmsy/zEhmsy/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/zEhmsy/zEhmsy/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
-</picture>
+  
+  [![Streak](https://github-readme-streak-stats.herokuapp.com?user=zEhmsy&theme=gotham&hide_border=true)](https://github.com/zEhmsy)
+  
+  <br>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zEhmsy/zEhmsy/output/github-contribution-grid-snake-dark.svg?v=999">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zEhmsy/zEhmsy/output/github-contribution-grid-snake.svg?v=999">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/zEhmsy/zEhmsy/output/github-contribution-grid-snake.svg?v=999">
+  </picture>
 
 </div>
+
+## 🎯 Engineering Radar
+
+**Hardware & Embedded** 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (80%)
+
+**Backend & Scripting** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (70%)
+
+**Automation & IoT** 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (90%)
 
 ---
 
