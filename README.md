@@ -1,27 +1,145 @@
-<h1 align="center">Hi 👋, I'm Giuseppe</h1>
-<h3 align="center">A passionate computer engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zehmsy&label=Profile%20views&color=0e75b6&style=flat" alt="zehmsy" /> </p>
-
-- 🔭 I’m currently working on **SITEC SNC**
-
-- 🌱 I’m currently learning **microcontrollers programming**
-
-- 👨‍💻 All of my projects are available at [https://github.com/zEhmsy?tab=repositories](https://github.com/zEhmsy?tab=repositories)
-
-- 💬 Ask me about **engineering, programming and microcontrollers**
-
-- 📫 How to reach me **info.g.turturro@gmail.com**
-
-- 📄 Know about my experiences [https://zehmsy.github.io/digital-cv/](https://zehmsy.github.io/digital-cv/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/g-turturro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g-turturro" height="30" width="40" /></a>
-<a href="https://instagram.com/turturrogiuseppe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="turturrogiuseppe" height="30" width="40" /></a>
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header">
+    <img width="100%" alt="header wave" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header" style="max-width: 100%;">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center" dir="auto">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?color=F0F6FC&size=28&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Giuseppe;Passionate+Computer+Engineer;Microcontrollers+%26+Programming;Welcome!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?color=0A0A0A&size=28&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Giuseppe;Passionate+Computer+Engineer;Microcontrollers+%26+Programming;Welcome!">
+    <img alt="typing intro" src="https://readme-typing-svg.herokuapp.com?color=0A0A0A&size=28&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Giuseppe;Passionate+Computer+Engineer;Microcontrollers+%26+Programming;Welcome!" style="max-width: 100%;">
+  </picture>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zehmsy&show_icons=true&theme=dracula&locale=en&layout=compact" alt="zehmsy" /></p>
+<p align="center" dir="auto">
+  <a href="https://github.com/zEhmsy">
+    <img alt="profile views" src="https://komarev.com/ghpvc/?username=zehmsy&label=Profile%20views&color=0e75b6&style=flat" style="max-width: 100%;">
+  </a>
+  &nbsp;
+  <a href="https://zehmsy.github.io/digital-cv/" rel="nofollow">
+    <img alt="Digital CV" src="https://img.shields.io/badge/Digital_CV-zehmsy.github.io-0e75b6?style=flat&logo=github&logoColor=white" style="max-width: 100%;">
+  </a>
+</p>
+
+---
+
+## 👋 About me
+
+I’m **Giuseppe**, a **Passionate Computer Engineer** currently focused on **microcontrollers programming** and **software engineering**. Here you'll find my personal projects, academic work, and code spanning across different technologies and platforms. 
+
+- 🔭 I’m currently working on **SITEC SNC**
+- 🌱 I’m currently learning deeper **microcontrollers programming**
+- 💬 Ask me about **engineering, programming, and microcontrollers**
+- 📫 How to reach me: **info.g.turturro@gmail.com**
+
+> See my full experience and background: **[My Digital CV](https://zehmsy.github.io/digital-cv/)**
+
+---
+
+## 🚀 What I’m working on
+
+- **SITEC SNC:** Currently bringing my engineering skills to daily projects.
+- **Microcontrollers:** Expanding my knowledge in low-level programming and hardware interaction.
+- **Personal Repo:** Maintaining and updating my [GitHub Repositories](https://github.com/zEhmsy?tab=repositories).
+
+---
+
+## 🧰 Tech stack
+
+<div align="center">
+
+### Languages
+<p>
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=fff">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff">
+</p>
+
+### Frameworks & Tools
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff">
+  <img alt="Matlab" src="https://img.shields.io/badge/MATLAB-e20000?logo=mathworks&logoColor=white">
+  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff">
+</p>
+
+### Embedded, Systems & DBs
+<p>
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff">
+  <img alt="IFTTT" src="https://img.shields.io/badge/IFTTT-000000?logo=ifttt&logoColor=white">
+</p>
+
+</div>
+
+---
+
+## 📊 Stats
+
+<div align="center" dir="auto">
+  <a href="https://github.com/zEhmsy">
+    <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zehmsy&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/zEhmsy">
+    <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehmsy&layout=compact&theme=gotham" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/zEhmsy">
+    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=zehmsy&theme=gotham&hide_border=true" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/zEhmsy">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zehmsy&theme=react-dark" style="max-width: 100%;">
+  </a>
+</div>
+
+<p align="center" dir="auto">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zEhmsy/zEhmsy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zEhmsy/zEhmsy/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/zEhmsy/zEhmsy/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
+  </picture>
+</p>
+
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-trophy.vercel.app/?username=zehmsy&theme=gotham&row=2&no-bg=true&column=3&margin-w=15&margin-h=15">
+    <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=zehmsy&theme=gotham&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" style="max-width: 100%;">
+  </a>
+</p>
+
+---
+
+## 🌐 Find me
+
+<p align="center" dir="auto">
+  <a href="https://linkedin.com/in/g-turturro" rel="nofollow">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="https://instagram.com/turturrogiuseppe" rel="nofollow">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="mailto:info.g.turturro@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="https://zehmsy.github.io/digital-cv/" rel="nofollow">
+    <img alt="Digital CV" src="https://img.shields.io/badge/Digital_CV-zehmsy.github.io-000?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;">
+  </a>
+</p>
+
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer">
+    <img width="100%" alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" style="max-width: 100%;">
+  </a>
+</p>
