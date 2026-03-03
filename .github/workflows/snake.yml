@@ -2,9 +2,12 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Esegue ogni 12 ore
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+# Questo è il blocco magico che risolve l'errore 128
+permissions:
+  contents: write
 
 jobs:
   build:
