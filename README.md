@@ -90,34 +90,20 @@ I’m **Giuseppe**, a **Passionate Computer Engineer** currently focused on **mi
 
 ## 📊 Stats
 
-<div align="center" dir="auto">
-  <a href="https://github.com/zEhmsy">
-    <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zehmsy&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/zEhmsy">
-    <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehmsy&layout=compact&theme=gotham" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/zEhmsy">
-    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=zehmsy&theme=gotham&hide_border=true" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/zEhmsy">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zehmsy&theme=react-dark" style="max-width: 100%;">
-  </a>
+<div align="center">
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com?user=zehmsy&theme=gotham&hide_border=true)](https://github.com/zEhmsy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zehmsy&theme=react-dark)](https://github.com/zEhmsy)
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zEhmsy/zEhmsy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zEhmsy/zEhmsy/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/zEhmsy/zEhmsy/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
+</picture>
+
 </div>
-
-<p align="center" dir="auto">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zEhmsy/zEhmsy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zEhmsy/zEhmsy/output/github-contribution-grid-snake.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/zEhmsy/zEhmsy/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
-  </picture>
-</p>
-
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-trophy.vercel.app/?username=zehmsy&theme=gotham&row=2&no-bg=true&column=3&margin-w=15&margin-h=15">
-    <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=zehmsy&theme=gotham&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" style="max-width: 100%;">
-  </a>
-</p>
 
 ---
 
