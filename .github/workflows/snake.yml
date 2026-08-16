@@ -2,18 +2,24 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    # una volta a settimana, la domenica notte, minuto "fuori punta"
+    - cron: "37 3 * * 0"
   workflow_dispatch:
 
-# Questo è il blocco magico che risolve l'errore 128
 permissions:
   contents: write
+
+# se una run è già in corso, la nuova la sostituisce invece di accodarsi
+concurrency:
+  group: snake
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v3
+      # niente actions/checkout: snk usa le API, ghaction-github-pages clona da sé
       - uses: Platane/snk@v3
         with:
           github_user_name: zehmsy
