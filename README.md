@@ -28,8 +28,9 @@
 
 I’m **Giuseppe**, a **Passionate Computer Engineer** currently focused on **microcontrollers programming** and **software engineering**. Here you'll find my personal projects, academic work, and code spanning across different technologies and platforms. 
 
-- 🔭 I’m currently working on **SITEC SNC**
-- 🌱 I’m currently learning deeper **microcontrollers programming**
+- 🔭 I’m currently working on **SITEC SNC**, building Niagara Framework modules for fire alarm & BMS integration (e.g. [am8xControl](https://github.com/zEhmsy/am8xControl))
+- 🛠️ Side projects: a macOS menu bar app for live Claude/Codex quota tracking ([fluxa](https://github.com/zEhmsy/fluxa)), a Flutter + Arduino LED controller ([lightflow](https://github.com/zEhmsy/lightflow)), and a local LLM-powered Fantacalcio assistant ([FantaAsta](https://github.com/zEhmsy/FantaAsta))
+- 🌱 I’m currently learning deeper **microcontrollers programming**, Swift/SwiftUI, and MCP-based AI tooling
 - 💬 Ask me about **engineering, programming, and microcontrollers**
 - 📫 How to reach me: **info.g.turturro@gmail.com**
 
@@ -39,8 +40,9 @@ I’m **Giuseppe**, a **Passionate Computer Engineer** currently focused on **mi
 
 ## 🚀 What I’m working on
 
-- **SITEC SNC:** Currently bringing my engineering skills to daily projects.
-- **Microcontrollers:** Expanding my knowledge in low-level programming and hardware interaction.
+- **SITEC SNC:** Building and maintaining Niagara Framework modules for fire alarm and building automation systems (Notifier panels, Modbus TCP devices).
+- **Microcontrollers & IoT:** Arduino/ESP32 firmware for LED control ([lightflow](https://github.com/zEhmsy/lightflow)) and camera/streaming tooling ([StreamTray](https://github.com/zEhmsy/StreamTray), [Dahua_camera](https://github.com/zEhmsy/Dahua_camera)).
+- **AI & Automation:** Local LLM tooling with Ollama and MCP servers, applied to real-world assistants like [FantaAsta](https://github.com/zEhmsy/FantaAsta).
 - **Personal Repo:** Maintaining and updating my [GitHub Repositories](https://github.com/zEhmsy?tab=repositories).
 
 ---
@@ -56,6 +58,8 @@ I’m **Giuseppe**, a **Passionate Computer Engineer** currently focused on **mi
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff">
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=fff">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff">
@@ -64,12 +68,17 @@ I’m **Giuseppe**, a **Passionate Computer Engineer** currently focused on **mi
 ### Frameworks & Tools
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">
+  <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-F05138?logo=swift&logoColor=fff">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff">
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=fff">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff">
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=fff">
   <img alt="Matlab" src="https://img.shields.io/badge/MATLAB-e20000?logo=mathworks&logoColor=white">
   <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff">
 </p>
@@ -77,6 +86,9 @@ I’m **Giuseppe**, a **Passionate Computer Engineer** currently focused on **mi
 ### Embedded, Systems & DBs
 <p>
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff">
+  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=fff">
+  <img alt="Niagara Framework" src="https://img.shields.io/badge/Niagara_Framework-0e75b6">
+  <img alt="Modbus TCP" src="https://img.shields.io/badge/Modbus_TCP-0e75b6">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff">
@@ -107,7 +119,7 @@ g-turturro@local:~$ _
 
 <div align="center">
   
-  [![Streak](https://github-readme-streak-stats.herokuapp.com?user=zEhmsy&theme=gotham&hide_border=true)](https://github.com/zEhmsy)
+  [![Streak](https://streak-stats.demolab.com?user=zEhmsy&theme=gotham&hide_border=true)](https://github.com/zEhmsy)
   
   <br>
   
