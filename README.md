@@ -119,7 +119,13 @@ g-turturro@local:~$ _
 
 <div align="center">
   
-  [![Streak](https://streak-stats.demolab.com?user=zEhmsy&theme=gotham&hide_border=true)](https://github.com/zEhmsy)
+  <a href="https://github.com/zEhmsy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zEhmsy/zEhmsy/main/profile/streak-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zEhmsy/zEhmsy/main/profile/streak-light.svg">
+      <img alt="Streak" src="https://raw.githubusercontent.com/zEhmsy/zEhmsy/main/profile/streak-light.svg">
+    </picture>
+  </a>
   
   <br>
   
